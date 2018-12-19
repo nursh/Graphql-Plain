@@ -1,0 +1,16 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js \" query { hello name } \""
+  },
+  "keywords": [],
+  "author": "nur-sh",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^14.0.2",
+    "graphql-tools": "^4.0.3"
+  }
+}
